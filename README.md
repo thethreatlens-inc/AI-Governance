@@ -1,7 +1,6 @@
 <!--
-  ThreatLens — GitHub organization profile README
-  Location on GitHub:  thethreatlens-inc/.github  →  profile/README.md
-  Ship together: this README.md and banner.png must both live in the profile/ folder.
+  ThreatLens — public overview README (thethreatlens-inc/-public-resources-).
+  Keep README.md and banner.png together in the same folder so the banner resolves.
 -->
 
 <div align="center">
